@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Index 173040165</title>
+     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  
+<style>
+body {
+  background: grey;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+}
+.container {
+  width: 60%;
+}
+.table-wrapper {
+  background: #fff;
+  padding: 20px 25px;
+  margin: 30px 0;
+  border-radius: 20px;
+}
+.table-title {        
+  padding-bottom: 15px;
+  background: #8B0000;
+  color: #fff;
+  padding: 16px 30px;
+  margin: -20px -25px 10px;
+  border-radius: 20px 20px 0 0;
+}
+.table-title h2 {
+  font-size: 40px;
+}
+th, td, {
+  text-align: center;
+}
+ul, li {
+  color:  #191970;
+}
+
+ul,li:hover {
+  color: #8B0000;
+}
+</style>
+</head>
+<body>
+     <div class="container">
+    <div class="table-wrapper">
+      <div class="table-title">
+        <div class="row">
+          <div class="col-sm-12">
+            <h2><b>Nama : Adit Iswadi</b></h2>
+            <h2><b>NRP &nbsp; : 173040165</b></h2>
+          </div>
+        </div>
+      </div>
+      <table class="table table-striped table-hover">
+        <thead>
+          <tr>
+            <th><h2>Modul 3 :</h2></th>
+            <th><h2>Modul 4 :</h2></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+               <td>
+                <ul><a href="modul3/built-in.php"><font size="5"><li>Built-in</li></a></font></ul>
+                <ul><a href="modul3/tulismiring.php"><font size="5"><li>Tulis Miring</li></a></font></ul>
+                <ul><a href="modul3/selisih.php"><font size="5"><li>Selisih</li></a></font></ul>
+                <ul><a href="modul3/pDefault.php"><font size="5"><li>pDefault</li></a></font></ul>
+                <ul><a href="modul3/scope.php"><font size="5"><li>Scope</li></a></font></ul>
+                <ul><a href="modul3/static.php"><font size="5"><li>Static</li></a></font></ul>
+                <ul><a href="modul3/latihan3a.php"><font size="5"><li>Latihan 3A</li></a></font></ul>
+                <ul><a href="modul3/latihan3b.php"><font size="5"><li>Latihan 3B</li></a></font></ul>
+                <ul><a href="modul3/latihan3c.php"><font size="5"><li>Latihan 3C</li></a></font></ul>
+                <ul><a href="modul3/latihan3d.php"><font size="5"><li>Latihan 3D</li></a></font></ul>
+               </td>
+               <td>
+                <ul><a href="modul4/view.php"><font size="5"><li>view</li></a></font></ul>
+                 <ul><a href="modul4/addArray.php"><font size="5"><li>addArray</li></a></font></ul>
+                 <ul><a href="modul4/manipulasiArray.php"><font size="5"><li>manipulasiArray</li></a></font></ul>
+                 <ul><a href="modul4/arrayFor.php"><font size="5"><li>arrayFor</li></a></font></ul>
+                 <ul><a href="modul4/arrayForeach.php"><font size="5"><li>arrayForeach</li></a></font></ul>
+                 <ul><a href="modul4/associative.php"><font size="5"><li>associative</li></a></font></ul>
+                 <ul><a href="modul4/Latihan4a.php"><font size="5"><li>Latihan 4A</li></a></font></ul>
+                 <ul><a href="modul4/Latihan4b.php"><font size="5"><li>Latihan 4B</li></a></font></ul>
+                 <ul><a href="modul4/Latihan4c.php"><font size="5"><li>Latihan 4C</li></a></font></ul>
+                 <ul><a href="modul4/Latihan4d.php"><font size="5"><li>Latihan 4D</li></a></font></ul>
+                 <ul><a href="modul4/Tugas2.php"><font size="5"><li>Tugas 2</li></a></font></ul>
+               </td> 
+          </tr>
+        </tbody>
+      </table>
+    </div>   
+  </div>  
+</body>
+</html>
